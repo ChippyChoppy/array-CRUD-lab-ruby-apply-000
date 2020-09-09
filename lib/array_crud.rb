@@ -1,5 +1,5 @@
 def create_an_empty_array
-  [ ]
+  ["I'm", "a", "dinosaur," "RAWR!"]
 end
 
 def create_an_array
